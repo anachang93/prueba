@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #fff;
+}
+
+#sec-home p{
+
+	position: relative;
+	color: white;
+}
+
+#sec-home{
+	background-image: url(  ../img/header-bg.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-blend-mode:overlay;
+	background-color: #72BCD3;
+	padding-top: 15%;
+	padding-bottom: 30%;
+	height: 400px;
+	
+}
+
+
+
+#sec-home h1{
+	font-size: 40px;
+	font-weight: 700;
+	position: relative;
+	color: white;
+	text-align: left;
+}
+
+#sec-home button{
+	border-radius: 50px 50px 50px 50px;
+	padding: 15px 45px;
+	background-color: white;
+	border-color: white;
+	color: black;
+	font-weight: 500;
+
+}
+	
+
+#img-screen2{
+	padding-left: 100px;
+}
+
+#sec-service{
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+#sec-service .info{
+	align-content: center;
+	color: gray;
+}
+
+#sec-service .img-forma{
+	align-content: center;
+	color: gray;
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#sec-features{
+	background-color: #3BA6D0;
+	padding-top: 10%;
+	padding-bottom: 2%;
+}
+
+#sec-features button{
+	border-radius: 50px 50px 50px 50px;
+	padding: 15px 45px;
+	background-color: royalblue;
+	border-color: royalblue;
+	color: white;
+	font-weight: 500;
+	
+
+}
+
+#sec-features h2{
+	color: white;
+	font: bold;
+	padding-bottom: 5%;
+	align-items: flex-end;
+	font-size: 50px;
+	font-weight: 500%;
+}
+
+#sec-features p{
+	color: white;
+	padding-bottom: 15%;
+	align-content: left;
+}
+
+#sec-features .payments{
+	padding-top: 50%;
+}
+
+#sec-features .easy{
+	text-align: left;
+}
+
+#sec-team{
+	background-color: rgba(242,254,254,1.00);
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+
+#sec-team h4{
+	color: gray;
+	text-align: center;
+	font: bold;
+}
+
+#sec-team p{
+	padding-bottom: 30px;
+	color: gray;
+	text-align: center;
+	
+}
+
+#sec-team .info-team{
+	position: relative;
+	background-color: white;
+	box-shadow: 5px 0px 15px 3px #D7D7D7;
+
+
+}
+
+.titulo-team{
+	font: bolder;
+	color: gray;
+	text-align: center;
+}
+
+#sec-team hr{
+	text-align: center;
+	font: bold;
+}
+
+
+#sec-faq{
+	background-image: url(../img/parallax-2-clients.jpg);
+	padding: 10% 0;
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-blend-mode:overlay;
+	background-color: #72BCD3;
+}
+
+#sec-blog{
+	padding: 5% 5% 2%  ;
+	background-color: rgba(242,254,254,1.00);
+
+}
+
+
+.blog{
+	background-color: white;
+	padding-bottom: 5%;
+	color: rgba(47,44,44,1.00);
+	width: 300px;
+	
+}
+
+.blog p{
+	text-align: left;
+	padding: 10% 6% 2%;
+}
+
+.blog h4{
+	padding: 10% 10% 0%;
+	text-align: left;
+}
+
+#sec-contact{
+	background-color: #39A5CE;
+	padding: 10% 0;
+}
+
+#sec-contact h2{
+	text-align: center;
+}
+
+#sec-contact p{
+	text-align: center;
+	padding-bottom: 5%;
+}
